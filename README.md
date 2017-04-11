@@ -146,6 +146,7 @@ Depending on where you are interviewing, go through the company blog . VERY USEF
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
+* [Uber Engineering Blog](https://eng.uber.com/)
 
 
 ## <a name='tldr'>Low on time ?</a>
